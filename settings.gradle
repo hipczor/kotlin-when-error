@@ -1,0 +1,4 @@
+include ':lib'
+include ':whenlibrary'
+include ':app'
+rootProject.name = "WhenError"
